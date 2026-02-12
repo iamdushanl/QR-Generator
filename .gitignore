@@ -1,0 +1,7 @@
+node_modules/
+dist/
+qr_img.png
+URL.txt
+*.log
+coverage/
+/.vscode/
