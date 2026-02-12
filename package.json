@@ -1,0 +1,24 @@
+{
+   "name": "2.4-qr-code-project",
+   "version": "1.0.0",
+   "type": "module",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js",
+      "generate": "node index.js",
+      "test": "vitest run"
+   },
+   "dependencies": {
+      "commander": "^11.0.0",
+      "inquirer": "^9.2.16",
+      "qrcode": "^1.5.1",
+      "winston": "^3.9.0"
+   },
+   "devDependencies": {
+      "vitest": "^1.0.0"
+   },
+   "author": "Dushan",
+   "license": "ISC",
+   "keywords": [],
+   "description": ""
+}
